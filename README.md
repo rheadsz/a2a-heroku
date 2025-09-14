@@ -16,7 +16,7 @@ This project consists of two main services:
    - Google Calendar integration
    - Free/busy checking
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](images/architecture_diagram.png)
 
 ## Features
 
