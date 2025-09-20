@@ -113,9 +113,9 @@ This project consists of two main services:
 - `GET /oauth/start`: Start OAuth flow
 - `GET /oauth/callback`: OAuth callback endpoint
 
-## Model Control Plane (MCP)
+## Model Control Protocol (MCP)
 
-The Model Control Plane is a standardized way for AI models to interact with external tools and services. In this project, the mcp-calendar service implements this concept by:
+The Model Control Protocol is a standardized way for AI models to interact with external tools and services. In this project, the mcp-calendar service implements this concept by:
 
 1. Providing a standardized tools API
 2. Describing available tools and their schemas
